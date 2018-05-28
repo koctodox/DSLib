@@ -155,3 +155,26 @@ case class LinkedList[T]() {
   //    distinct()
 
 }
+
+
+/*
+* TODO : In main :
+*
+*
+  var linkedList: LinkedList[Int] = LinkedList()
+  linkedList.add(1)
+  linkedList.add(2)
+  linkedList.add(3)
+  linkedList.add(4)
+  linkedList.add(12)
+  linkedList.add(17)
+  linkedList.printAll
+
+  println("before delete by item: ")
+  println()
+  println(linkedList.getByIndex(5))
+  println()
+  linkedList.printAll()
+
+
+* */
