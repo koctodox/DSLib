@@ -35,8 +35,36 @@
       <file leaf-file-name="LinkedList.scala" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/LinkedList.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2090">
-              <caret line="155" column="1" selection-start-line="155" selection-start-column="1" selection-end-line="155" selection-end-column="1" />
+            <state relative-caret-position="360">
+              <caret line="106" lean-forward="true" selection-start-line="6" selection-end-line="106" />
+              <folding>
+                <element signature="e#105#343#0" />
+                <element signature="e#187#213#0" />
+                <element signature="e#219#339#0" />
+                <element signature="e#347#600#0" />
+                <element signature="e#395#547#0" />
+                <element signature="e#553#596#0" />
+                <element signature="e#604#1007#0" />
+                <element signature="e#757#803#0" />
+                <element signature="e#872#939#0" />
+                <element signature="e#1011#1457#0" />
+                <element signature="e#1194#1240#0" />
+                <element signature="e#1305#1372#0" />
+                <element signature="e#1461#1809#0" />
+                <element signature="e#1611#1651#0" />
+                <element signature="e#1705#1748#0" />
+                <element signature="e#1813#2135#0" />
+                <element signature="e#1952#1984#0" />
+                <element signature="e#2042#2074#0" />
+                <element signature="e#2139#2251#0" />
+                <element signature="e#2176#2247#0" />
+                <element signature="e#2255#2551#0" />
+                <element signature="e#2345#2523#0" />
+                <element signature="e#2421#2461#0" />
+                <element signature="e#2555#2992#0" />
+                <element signature="e#2706#2761#0" />
+                <element signature="e#2870#2930#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -48,6 +76,9 @@
       <find>indexOf</find>
       <find>val</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -61,16 +92,22 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="41" />
+    <option name="x" value="-3799" />
     <option name="y" value="-4" />
-    <option name="width" value="2519" />
+    <option name="width" value="1879" />
     <option name="height" value="1084" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -196,8 +233,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="40" y="-11" width="1881" height="1092" extended-state="6" />
-    <editor active="true" />
+    <frame x="-1879" y="-4" width="1879" height="1084" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -207,27 +243,27 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3782654" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3291536" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49915966" weight="0.19923788" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4984326" visible="true" weight="0.047359824" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" order="7" />
       <window_info id="Structure" order="6" sideWeight="0.4984326" side_tool="true" weight="0.1720196" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="5" sideWeight="0.5015674" side_tool="true" weight="0.19923788" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.23197491" />
-      <window_info id="Favorites" order="5" sideWeight="0.5015674" side_tool="true" visible="true" weight="0.1736527" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.3291536" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.3291536" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.3291536" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -239,6 +275,48 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Main.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="33" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/LinkedList.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2325">
+          <caret line="155" column="1" selection-start-line="155" selection-start-column="1" selection-end-line="155" selection-end-column="1" />
+          <folding>
+            <element signature="e#105#343#0" />
+            <element signature="e#187#213#0" />
+            <element signature="e#219#339#0" />
+            <element signature="e#347#600#0" />
+            <element signature="e#395#547#0" />
+            <element signature="e#553#596#0" />
+            <element signature="e#604#1007#0" />
+            <element signature="e#757#803#0" />
+            <element signature="e#872#939#0" />
+            <element signature="e#1011#1457#0" />
+            <element signature="e#1194#1240#0" />
+            <element signature="e#1305#1372#0" />
+            <element signature="e#1461#1809#0" />
+            <element signature="e#1611#1651#0" />
+            <element signature="e#1705#1748#0" />
+            <element signature="e#1813#2135#0" />
+            <element signature="e#1952#1984#0" />
+            <element signature="e#2042#2074#0" />
+            <element signature="e#2139#2251#0" />
+            <element signature="e#2176#2247#0" />
+            <element signature="e#2255#2551#0" />
+            <element signature="e#2345#2523#0" />
+            <element signature="e#2421#2461#0" />
+            <element signature="e#2555#2992#0" />
+            <element signature="e#2706#2761#0" />
+            <element signature="e#2870#2930#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/Main.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -333,8 +411,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/LinkedList.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2090">
-          <caret line="155" column="1" selection-start-line="155" selection-start-column="1" selection-end-line="155" selection-end-column="1" />
+        <state relative-caret-position="360">
+          <caret line="106" lean-forward="true" selection-start-line="6" selection-end-line="106" />
+          <folding>
+            <element signature="e#105#343#0" />
+            <element signature="e#187#213#0" />
+            <element signature="e#219#339#0" />
+            <element signature="e#347#600#0" />
+            <element signature="e#395#547#0" />
+            <element signature="e#553#596#0" />
+            <element signature="e#604#1007#0" />
+            <element signature="e#757#803#0" />
+            <element signature="e#872#939#0" />
+            <element signature="e#1011#1457#0" />
+            <element signature="e#1194#1240#0" />
+            <element signature="e#1305#1372#0" />
+            <element signature="e#1461#1809#0" />
+            <element signature="e#1611#1651#0" />
+            <element signature="e#1705#1748#0" />
+            <element signature="e#1813#2135#0" />
+            <element signature="e#1952#1984#0" />
+            <element signature="e#2042#2074#0" />
+            <element signature="e#2139#2251#0" />
+            <element signature="e#2176#2247#0" />
+            <element signature="e#2255#2551#0" />
+            <element signature="e#2345#2523#0" />
+            <element signature="e#2421#2461#0" />
+            <element signature="e#2555#2992#0" />
+            <element signature="e#2706#2761#0" />
+            <element signature="e#2870#2930#0" />
+          </folding>
         </state>
       </provider>
     </entry>
