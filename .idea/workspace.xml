@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0df97d8-ce44-4b41-a1bf-2c0e30e106dc" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/CircularLinkedList.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Cll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/KK.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/LinkedList.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/LinkedList.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Queue.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/scala/Main.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Main.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/MyList.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/Main$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Main$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Main.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -39,17 +32,53 @@
       <file leaf-file-name="Main.scala" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/Main.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="163">
-              <caret line="21" column="30" lean-forward="true" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+            <state relative-caret-position="621">
+              <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CircularLinkedList.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/CircularLinkedList.scala">
+      <file leaf-file-name="Queue.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/Queue.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="3" column="49" selection-start-line="3" selection-start-column="49" selection-end-line="3" selection-end-column="49" />
+            <state relative-caret-position="288">
+              <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LinkedList.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/LinkedList.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="32" lean-forward="true" selection-start-line="1" selection-end-line="32" />
+              <folding>
+                <element signature="e#105#343#0" />
+                <element signature="e#187#213#0" />
+                <element signature="e#219#339#0" />
+                <element signature="e#347#600#0" />
+                <element signature="e#395#547#0" />
+                <element signature="e#553#596#0" />
+                <element signature="e#604#1007#0" />
+                <element signature="e#757#803#0" />
+                <element signature="e#872#939#0" />
+                <element signature="e#1011#1457#0" />
+                <element signature="e#1194#1240#0" />
+                <element signature="e#1305#1372#0" />
+                <element signature="e#1461#1809#0" />
+                <element signature="e#1611#1651#0" />
+                <element signature="e#1705#1748#0" />
+                <element signature="e#1813#2135#0" />
+                <element signature="e#1952#1984#0" />
+                <element signature="e#2042#2074#0" />
+                <element signature="e#2139#2251#0" />
+                <element signature="e#2176#2247#0" />
+                <element signature="e#2255#2551#0" />
+                <element signature="e#2345#2523#0" />
+                <element signature="e#2421#2461#0" />
+                <element signature="e#2706#2761#0" />
+                <element signature="e#2870#2930#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -83,6 +112,7 @@
         <option value="$PROJECT_DIR$/src/main/scala/KK.java" />
         <option value="$PROJECT_DIR$/src/main/scala/Cll.java" />
         <option value="$PROJECT_DIR$/src/main/scala/CircularLinkedList.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Queue.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/Main.scala" />
       </list>
     </option>
@@ -279,13 +309,13 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26854753" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26854753" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="right" id="Coverage" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.1724138" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.04493208" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4984326" visible="true" weight="0.13445836" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4984326" visible="true" weight="0.119216114" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" order="7" />
       <window_info id="Structure" order="6" sideWeight="0.4984326" side_tool="true" weight="0.1720196" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -440,10 +470,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/KK.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-end-line="10" />
+          <folding>
+            <element signature="e#0#210#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Cll.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/CircularLinkedList.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/LinkedList.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        <state relative-caret-position="250">
+          <caret line="32" lean-forward="true" selection-start-line="1" selection-end-line="32" />
           <folding>
             <element signature="e#105#343#0" />
             <element signature="e#187#213#0" />
@@ -468,41 +522,23 @@
             <element signature="e#2255#2551#0" />
             <element signature="e#2345#2523#0" />
             <element signature="e#2421#2461#0" />
-            <element signature="e#2555#2992#0" />
             <element signature="e#2706#2761#0" />
             <element signature="e#2870#2930#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/KK.java">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Queue.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-end-line="10" />
-          <folding>
-            <element signature="e#0#210#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/Cll.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/CircularLinkedList.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="49" selection-start-line="3" selection-start-column="49" selection-end-line="3" selection-end-column="49" />
+        <state relative-caret-position="288">
+          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/Main.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="21" column="30" lean-forward="true" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+        <state relative-caret-position="621">
+          <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
         </state>
       </provider>
     </entry>
