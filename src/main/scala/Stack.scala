@@ -1,4 +1,4 @@
-case class Queue[T]() {
+case class Stack[T]() {
 
   case class Node(var next: Node, var value: T)
 
@@ -17,13 +17,24 @@ case class Queue[T]() {
   }
 
   def get(): Option[T] = {
-    try {
-      val result = first.value
-      first = first.next
-      Some(result)
-    } catch {
-      case _: NullPointerException => None
+    var result: Option[T] = None
+    if (first == null) {
+      println(s"Stack is empty!")
+      result = None
+    } else if (first.next == null) {
+      result = Some(first.value)
+      first = null
+    } else {
+      var last: Node = first
+      var before: Node = null
+      while (last.next != null) {
+        before = last
+        last = last.next
+      }
+      result = Some(last.value)
+      before.next = null
     }
+    result
   }
 
   def printAll(): Unit = {

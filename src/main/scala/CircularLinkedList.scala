@@ -31,18 +31,3 @@ class CircularLinkedList[T](temp: T) {
   }
 
 }
-
-
-/*
-*  TODO: put it in main()
-  val circularLinkedList: CircularLinkedList[Int] = new CircularLinkedList(0)
-
-  circularLinkedList.add(1)
-  circularLinkedList.add(2)
-  circularLinkedList.add(3)
-  circularLinkedList.add(4)
-  circularLinkedList.add(5)
-
-  circularLinkedList printer
-
-* */
