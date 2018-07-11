@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0df97d8-ce44-4b41-a1bf-2c0e30e106dc" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Queue.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/scala/Main.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Main.scala" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -32,17 +32,8 @@
       <file leaf-file-name="Main.scala" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/Main.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="621">
-              <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Queue.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/Queue.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+            <state relative-caret-position="330">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -50,8 +41,8 @@
       <file leaf-file-name="LinkedList.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/LinkedList.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="32" lean-forward="true" selection-start-line="1" selection-end-line="32" />
+            <state relative-caret-position="150">
+              <caret line="32" selection-start-line="1" selection-end-line="32" />
               <folding>
                 <element signature="e#105#343#0" />
                 <element signature="e#187#213#0" />
@@ -114,14 +105,15 @@
         <option value="$PROJECT_DIR$/src/main/scala/CircularLinkedList.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/Queue.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/Main.scala" />
+        <option value="$PROJECT_DIR$/scriptFile.scala" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="41" />
-    <option name="y" value="-4" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="438" />
+    <option name="y" value="261" />
     <option name="width" value="1879" />
-    <option name="height" value="1084" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -129,7 +121,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -159,11 +151,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Miras/news-crawler" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
@@ -297,25 +290,22 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="40" y="-11" width="1881" height="1092" extended-state="6" />
-    <editor active="true" />
+    <frame x="438" y="261" width="1879" height="1040" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.3291536" />
       <window_info anchor="right" id="sbt" order="8" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info id="Image Layers" order="1" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.26854753" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28944618" />
       <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="right" id="Coverage" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.04493208" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32858709" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4984326" visible="true" weight="0.119216114" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4984326" visible="true" weight="0.11268372" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" order="7" />
       <window_info id="Structure" order="6" sideWeight="0.4984326" side_tool="true" weight="0.1720196" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -323,13 +313,15 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.23197491" />
       <window_info id="Favorites" order="5" sideWeight="0.5015674" side_tool="true" weight="0.19923788" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3291536" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Build" order="9" weight="0.3291536" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -341,6 +333,88 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Main.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/LinkedList.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="32" selection-start-line="1" selection-end-line="32" />
+          <folding>
+            <element signature="e#105#343#0" />
+            <element signature="e#187#213#0" />
+            <element signature="e#219#339#0" />
+            <element signature="e#347#600#0" />
+            <element signature="e#395#547#0" />
+            <element signature="e#553#596#0" />
+            <element signature="e#604#1007#0" />
+            <element signature="e#757#803#0" />
+            <element signature="e#872#939#0" />
+            <element signature="e#1011#1457#0" />
+            <element signature="e#1194#1240#0" />
+            <element signature="e#1305#1372#0" />
+            <element signature="e#1461#1809#0" />
+            <element signature="e#1611#1651#0" />
+            <element signature="e#1705#1748#0" />
+            <element signature="e#1813#2135#0" />
+            <element signature="e#1952#1984#0" />
+            <element signature="e#2042#2074#0" />
+            <element signature="e#2139#2251#0" />
+            <element signature="e#2176#2247#0" />
+            <element signature="e#2255#2551#0" />
+            <element signature="e#2345#2523#0" />
+            <element signature="e#2421#2461#0" />
+            <element signature="e#2706#2761#0" />
+            <element signature="e#2870#2930#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Main.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/LinkedList.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" lean-forward="true" selection-start-line="1" selection-end-line="32" />
+          <folding>
+            <element signature="e#105#343#0" />
+            <element signature="e#187#213#0" />
+            <element signature="e#219#339#0" />
+            <element signature="e#347#600#0" />
+            <element signature="e#395#547#0" />
+            <element signature="e#553#596#0" />
+            <element signature="e#604#1007#0" />
+            <element signature="e#757#803#0" />
+            <element signature="e#872#939#0" />
+            <element signature="e#1011#1457#0" />
+            <element signature="e#1194#1240#0" />
+            <element signature="e#1305#1372#0" />
+            <element signature="e#1461#1809#0" />
+            <element signature="e#1611#1651#0" />
+            <element signature="e#1705#1748#0" />
+            <element signature="e#1813#2135#0" />
+            <element signature="e#1952#1984#0" />
+            <element signature="e#2042#2074#0" />
+            <element signature="e#2139#2251#0" />
+            <element signature="e#2176#2247#0" />
+            <element signature="e#2255#2551#0" />
+            <element signature="e#2345#2523#0" />
+            <element signature="e#2421#2461#0" />
+            <element signature="e#2706#2761#0" />
+            <element signature="e#2870#2930#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/Main.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -390,7 +464,6 @@
             <element signature="e#2255#2551#0" />
             <element signature="e#2345#2523#0" />
             <element signature="e#2421#2461#0" />
-            <element signature="e#2555#2992#0" />
             <element signature="e#2706#2761#0" />
             <element signature="e#2870#2930#0" />
           </folding>
@@ -470,23 +543,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/KK.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-end-line="10" />
-          <folding>
-            <element signature="e#0#210#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/Cll.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/KK.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Cll.java" />
     <entry file="file://$PROJECT_DIR$/src/main/scala/CircularLinkedList.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="28">
@@ -496,8 +554,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/LinkedList.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="32" lean-forward="true" selection-start-line="1" selection-end-line="32" />
+        <state relative-caret-position="150">
+          <caret line="32" selection-start-line="1" selection-end-line="32" />
           <folding>
             <element signature="e#105#343#0" />
             <element signature="e#187#213#0" />
@@ -530,15 +588,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/Queue.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        <state relative-caret-position="297">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/scriptFile.scala">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignor">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/Main.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
-          <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+        <state relative-caret-position="330">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
