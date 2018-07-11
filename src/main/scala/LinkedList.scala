@@ -4,17 +4,16 @@ case class LinkedList[T]() {
   case class Node(var next: Node, var value: T)
 
   var first: Node = _
+  var last: Node = _
 
   def add(item: T): Unit = {
     val node = Node(null, item)
     if (first == null) {
       first = node
+      last = first
     } else {
-      var last = first
-      while (last.next != null) {
-        last = last.next
-      }
       last.next = node
+      last = last.next
     }
   }
 
@@ -150,31 +149,8 @@ case class LinkedList[T]() {
     updateByIndex(indexOf(previosItem), newItem)
   }
 
+  //TODO
   //    def sort()
-
   //    distinct()
 
 }
-
-
-/*
-* TODO : In main :
-*
-*
-  var linkedList: LinkedList[Int] = LinkedList()
-  linkedList.add(1)
-  linkedList.add(2)
-  linkedList.add(3)
-  linkedList.add(4)
-  linkedList.add(12)
-  linkedList.add(17)
-  linkedList.printAll
-
-  println("before delete by item: ")
-  println()
-  println(linkedList.getByIndex(5))
-  println()
-  linkedList.printAll()
-
-
-* */

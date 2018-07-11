@@ -11,19 +11,6 @@ object Main extends App {
   //________________________your Code!_______________________
 
 
-  val linkedList: LinkedList[Int] = LinkedList()
-
-  linkedList.add(1)
-  linkedList.add(2)
-  linkedList.add(3)
-  linkedList.add(4)
-  linkedList.add(5)
-
-  linkedList.printAll()
-
-  val a: Option[Int] = linkedList.getByIndex(2)
-  println(a)
-
 
   //__________________________End!___________________________
   //    if (item == "Q") {
